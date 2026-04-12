@@ -2,8 +2,11 @@ name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 1 * * *" # every day at 1am UTC
+    - cron: "0 1 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
