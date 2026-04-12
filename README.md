@@ -7,27 +7,26 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%7C+Full-Stack+%7C+AI+Engineering;%F0%9F%A7%81+Pastry+%E2%86%92+%F0%9F%94%8C+Fiber+%E2%86%92+%F0%9F%92%BB+Code;Building+things+that+matter.;Open+for+alternance+%E2%80%94+Paris+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%7C+Full-Stack+%7C+AI+Engineering;Building+things+that+matter.;Open+for+alternance+%E2%80%94+Paris+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `> contacts --list`
+## ☠ Summon me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas@lucas-jacob.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-jacob)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lucas-jacob.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcb-dev/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://lucas-jacob.com)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![Twitch](https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/277789607251410944)
 
 </div>
 
 ---
 
-## `> stack --verbose`
+## ⚔ Tech Arsenal
 
 <div align="center">
 
@@ -54,17 +53,14 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 
 **🧠 Data & AI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![dlib](https://img.shields.io/badge/dlib-008000?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **🛠 DevOps & Tools**
 
@@ -73,14 +69,13 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## `> ls ./projects`
+## 🗡 Creations
 
 <table>
 <tr>
@@ -97,9 +92,9 @@
 <td width="50%">
 
 ### 🛡️ PrankGuard
-> AI-powered content moderation & prank detection
+> AI-powered face recognition & security system
 >
-> `Python` `Machine Learning` `FastAPI`
+> `Python` `OpenCV` `dlib` `CustomTkinter`
 >
 > [→ View Repo](https://github.com/alterax-code/prankguard)
 
@@ -121,7 +116,7 @@
 ### 🎙️ RTC-Discord-Clone
 > Real-time communication app inspired by Discord
 >
-> `TypeScript` `WebRTC` `Socket.io`
+> `Rust` `Axum` `Next.js` `WebSocket`
 >
 > [→ View Repo](https://github.com/alterax-code/RTC-Discord-Clone)
 
@@ -131,7 +126,7 @@
 
 ---
 
-## `> stats --github`
+## 📊 Battle Stats
 
 <div align="center">
 
@@ -148,7 +143,7 @@
 
 ---
 
-## `> contrib --3d`
+## 🌐 Contribution Map
 
 <!-- 3D Contribution Calendar — auto-generated by GitHub Action -->
 <div align="center">
@@ -159,7 +154,7 @@
 
 ---
 
-## `> contrib --snake`
+## 🐍 Snake
 
 <!-- Snake animation — auto-generated by GitHub Action -->
 <div align="center">
@@ -174,7 +169,7 @@
 
 ---
 
-## `> activity --graph`
+## 📈 Activity
 
 <div align="center">
 
@@ -189,7 +184,7 @@
 ![](https://komarev.com/ghpvc/?username=alterax-code&color=00e5ff&style=flat-square&label=Profile+Views)
 
 ```
-⚰️ Atypical path. Relentless grind. Same destination.
+Atypical path. Relentless grind. Same destination.
 ```
 
 </div>
